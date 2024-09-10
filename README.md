@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisbarlettaTR
-- 👀 I’m interested in Jenkins, kubernetes, AWS, PS Scripting
-- 🌱 I’m currently learning Jenkins, PS Scripting
+- 👀 I’m interested in Jenkins, kubernetes, OCI, PS Scripting
+- 🌱 I’m currently learning OCI, python
 - 💞️ I’m looking to collaborate on TR automations
 - 📫 How to reach me luismiguel.barletta@thomsonreuters.com
 
